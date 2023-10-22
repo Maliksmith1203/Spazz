@@ -1,2 +1,2 @@
-# Spazz
+# Malik Python Projects
 Malik Projects
